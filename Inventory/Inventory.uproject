@@ -16,6 +16,10 @@
 		{
 			"Name": "MyInvetory",
 			"Enabled": false
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
 		}
 	]
 }
